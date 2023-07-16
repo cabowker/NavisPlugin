@@ -1,0 +1,16 @@
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\bin\Debug\NavisPlugin.exe.config
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\bin\Debug\NavisPlugin.exe
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\bin\Debug\NavisPlugin.pdb
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin.csproj.AssemblyReference.cache
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin.csproj.SuggestedBindingRedirects.cache
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\MainWindow.g.cs
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\App.g.cs
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin_MarkupCompile.cache
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin_MarkupCompile.lref
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\MainWindow.baml
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin.g.resources
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin.Properties.Resources.resources
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin.csproj.GenerateResource.cache
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin.csproj.CoreCompileInputs.cache
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin.exe
+C:\Users\christopherbowker\RiderProjects\NavisPlugin\NavisPlugin\obj\Debug\NavisPlugin.pdb
